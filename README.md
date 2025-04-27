@@ -1,5 +1,5 @@
 # Projeto_ICD-2025_Fut
-Repositório para o projeto da disciplina de Introdução à Ciência de Dados.
+Repositório para o projeto da disciplina de Introdução à Ciência dos Dados.
 
 ## Tema
 Análise acerca do desempenho dos times e jogadores no Brasileirão Série A Masculino nos últimos 10 anos.
