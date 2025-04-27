@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes,Unnamed: 20_level_0
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Éverson,br BRA,GK,31.0,37.0,1161,1018,142,32,0,3,0,0,0,0,0,0,928,1,0,Matches
+Allan,br BRA,MF,24.0,30.4,2081,2011,67,52,0,24,11,12,0,0,0,0,1772,3,15,Matches
+Júnior Alonso,py PAR,DF,28.0,28.9,2141,1992,144,47,0,12,7,21,0,0,0,0,1872,5,9,Matches
+Jair,br BRA,MF,27.0,23.0,1101,1058,35,32,3,4,12,3,0,0,0,0,960,8,13,Matches
+Ignacio Fernández,ar ARG,MF,32.0,24.7,1442,1221,215,67,3,1,154,20,122,54,37,1,1138,6,28,Matches
+Hulk,br BRA,FW,35.0,23.2,622,540,76,11,1,7,43,4,20,7,9,1,427,6,19,Matches
+Federico Zaracho,ar ARG,"MF,FW",23.0,20.9,934,902,26,11,6,3,16,13,1,0,0,0,774,6,21,Matches
+Keno,br BRA,"FW,MF",32.0,20.6,719,649,67,4,5,10,101,7,55,33,6,0,483,3,28,Matches
+Mariano,br BRA,DF,35.0,19.2,1213,1009,200,27,3,13,78,167,6,0,6,0,978,4,11,Matches
+Guilherme Arana,br BRA,DF,24.0,19.1,1515,1311,202,33,2,11,89,155,14,1,13,0,1300,2,26,Matches
+Guga,br BRA,DF,23.0,18.6,1181,945,235,46,0,2,78,179,10,1,8,1,934,1,21,Matches
+Nathan Silva,br BRA,DF,24.0,19.2,1133,1093,40,38,0,6,2,2,0,0,0,0,1022,0,8,Matches
+Eduardo Sasha,br BRA,"FW,MF",29.0,14.3,422,403,16,2,1,3,9,1,0,0,0,0,339,3,9,Matches
+Ademir Santos,br BRA,"FW,MF",26.0,16.6,452,427,22,4,1,3,45,6,12,4,3,0,338,3,21,Matches
+Eduardo Vargas,cl CHI,FW,32.0,12.7,485,469,15,1,0,8,5,4,1,0,0,0,405,1,7,Matches
+Jemerson,br BRA,DF,29.0,11.1,576,545,30,19,0,5,0,1,0,0,0,0,511,1,3,Matches
+Rubens,br BRA,"DF,MF",20.0,13.7,566,507,58,5,0,1,46,52,1,0,0,0,424,1,23,Matches
+Otávio,br BRA,MF,27.0,12.9,892,861,30,27,0,2,5,3,0,0,0,0,812,1,4,Matches
+Dodô,br BRA,DF,29.0,10.1,471,397,74,4,0,0,34,70,0,0,0,0,386,0,7,Matches
+Réver,br BRA,DF,37.0,10.5,770,713,57,26,0,9,0,0,0,0,0,0,674,0,2,Matches
+Cristian Pavón,ar ARG,"FW,MF",26.0,7.7,338,325,13,2,1,7,31,7,4,0,2,0,256,0,12,Matches
+Igor Rabello,br BRA,DF,26.0,6.7,411,395,15,10,0,3,0,1,0,0,0,0,375,1,2,Matches
+Calebe,br BRA,"MF,FW",21.0,2.9,172,163,9,7,1,1,4,1,1,0,1,0,150,0,2,Matches
+Sávio,br BRA,"FW,MF",17.0,2.4,78,75,3,3,1,3,7,0,0,0,0,0,59,0,1,Matches
+Guilherme Carvalho,br BRA,"MF,DF",22.0,1.6,71,68,3,2,0,0,1,1,0,0,0,0,55,0,2,Matches
+Pedrinho,br BRA,"MF,FW",23.0,2.5,146,141,5,1,1,0,7,1,3,2,1,0,118,0,2,Matches
+Fábio,br BRA,"FW,MF",24.0,1.5,24,24,0,0,0,0,0,0,0,0,0,0,17,0,0,Matches
+Diego Godín,uy URU,DF,35.0,1.0,80,79,1,1,0,0,0,0,0,0,0,0,73,0,0,Matches
+Rafael Pires,br BRA,GK,32.0,1.0,18,14,4,0,0,0,0,0,0,0,0,0,17,0,0,Matches
+Jefferson Savarino,ve VEN,FW,25.0,1.0,38,38,0,0,0,0,3,0,0,0,0,0,29,0,1,Matches
+Alan Kardec,br BRA,"FW,MF",33.0,2.9,44,41,2,0,0,0,0,0,0,0,0,0,29,1,0,Matches
+Yan Phillipe,br BRA,FW,17.0,0.2,13,13,0,0,0,0,1,0,0,0,0,0,10,0,1,Matches
+Squad Total,,,28.7,38.0,21310,19447,1806,514,29,141,789,731,250,102,86,3,17665,57,298,
+Opponent Total,,,27.3,38.0,15100,13173,1882,520,25,127,517,761,127,43,64,1,11602,45,366,

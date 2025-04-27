@@ -1,0 +1,43 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 17_level_0,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+William,br BRA,DF,28.0,32.9,97,62,38,46,13,57,104,54.8,47,51,8,43,48,145,80,1,Matches
+Matheus Pereira,br BRA,"FW,MF",27.0,31.4,21,15,7,10,4,11,32,34.4,21,19,4,15,8,29,5,0,Matches
+Lucas Romero,ar ARG,MF,29.0,28.1,75,48,21,41,13,31,63,49.2,32,28,7,21,18,93,24,0,Matches
+João Marcelo,br BRA,DF,23.0,29.9,35,23,24,10,1,19,23,82.6,4,35,25,10,39,74,154,1,Matches
+Zé Ivaldo,br BRA,DF,26.0,26.2,29,17,19,9,1,19,34,55.9,15,30,19,11,19,48,120,3,Matches
+Marlon,br BRA,DF,26.0,24.2,46,30,24,19,3,24,37,64.9,13,31,7,24,28,74,62,2,Matches
+Lucas Silva,br BRA,MF,30.0,22.1,17,7,7,9,1,9,24,37.5,15,28,5,23,5,22,25,1,Matches
+Cássio,br BRA,GK,36.0,21.0,1,1,1,0,0,1,1,100.0,0,0,0,0,1,2,3,0,Matches
+Gabriel Veron,br BRA,"FW,MF",21.0,17.9,25,21,7,11,7,7,24,29.2,17,15,1,14,8,33,19,0,Matches
+Anderson,br BRA,GK,25.0,17.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,6,3,Matches
+Álvaro Barreal,ar ARG,"MF,FW",23.0,16.5,38,24,13,17,8,16,39,41.0,23,40,4,36,7,45,19,1,Matches
+Ramiro Benetti,br BRA,MF,30.0,16.0,29,20,10,14,5,18,45,40.0,27,19,4,15,20,49,26,0,Matches
+Lucas Villalba,ar ARG,DF,29.0,14.7,16,9,11,5,0,9,12,75.0,3,16,8,8,18,34,60,2,Matches
+Arthur,br BRA,FW,25.0,14.1,16,10,6,5,5,5,13,38.5,8,8,1,7,3,19,6,0,Matches
+Matheus Henrique,br BRA,"MF,FW",26.0,13.5,25,15,9,11,5,12,17,70.6,5,17,5,12,7,32,11,0,Matches
+Kaiki,br BRA,DF,20.0,13.2,42,31,19,20,3,15,25,60.0,10,15,2,13,26,68,39,1,Matches
+Kaio Jorge,br BRA,FW,22.0,12.9,2,1,0,1,1,0,3,0.0,3,8,0,8,0,2,12,0,Matches
+Lautaro Díaz,ar ARG,FW,25.0,10.7,9,8,1,4,4,2,6,33.3,4,2,0,2,3,12,10,0,Matches
+Rafael Silva,br BRA,FW,31.0,5.9,4,3,1,3,0,3,3,100.0,0,3,0,3,1,5,4,0,Matches
+Walace,br BRA,MF,28.0,5.1,10,8,8,1,1,7,14,50.0,7,0,0,0,7,17,4,1,Matches
+Mateus Vital,br BRA,"MF,FW",25.0,5.9,9,7,3,3,3,2,10,20.0,8,4,0,4,1,10,2,0,Matches
+Jonathan,br BRA,DF,19.0,3.8,6,3,2,4,0,1,4,25.0,3,3,3,0,6,12,16,0,Matches
+Neris,br BRA,DF,31.0,3.4,6,3,3,2,1,3,4,75.0,1,2,2,0,3,9,11,0,Matches
+Robert,br BRA,"MF,FW",18.0,4.4,3,1,2,1,0,2,6,33.3,4,4,2,2,1,4,5,1,Matches
+Fabrizio Peralta,py PAR,MF,21.0,3.1,10,6,7,2,1,5,10,50.0,5,3,1,2,3,13,6,0,Matches
+João Wellington,br BRA,"MF,FW",20.0,3.3,7,5,1,3,3,1,2,50.0,1,0,0,0,6,13,3,0,Matches
+Juan Ignacio Dinenno,ar ARG,"FW,DF",29.0,2.7,4,2,0,4,0,1,2,50.0,1,1,0,1,0,4,3,0,Matches
+Machado,br BRA,MF,28.0,1.9,4,2,1,3,0,1,1,100.0,0,2,0,2,5,9,0,0,Matches
+Wesley Gasolina,br BRA,DF,23.0,1.8,2,2,1,1,0,1,5,20.0,4,0,0,0,0,2,4,1,Matches
+Vitinho,br BRA,"MF,FW",19.0,5.4,8,3,3,5,0,4,7,57.1,3,5,2,3,3,11,5,0,Matches
+Tevis Gabriel,br BRA,FW,18.0,1.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Helibelton Palacios,co COL,DF,30.0,1.0,1,0,1,0,0,1,1,100.0,0,1,1,0,3,4,0,0,Matches
+José Cifuentes,ec ECU,MF,24.0,0.8,3,2,0,2,1,2,3,66.7,1,0,0,0,0,3,3,0,Matches
+Rafael Elias,br BRA,FW,24.0,1.1,0,0,0,0,0,0,5,0.0,5,1,1,0,0,0,2,0,Matches
+Arthur Rodrigues,br BRA,"FW,MF",19.0,0.9,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
+João Pedro,br BRA,"FW,MF",20.0,0.9,0,0,0,0,0,0,0,,0,0,0,0,2,2,1,0,Matches
+Kenji,br BRA,"FW,MF",18.0,0.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
+Jhosefer,br BRA,FW,19.0,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+Weverton,br BRA,FW,20.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Squad Total,,,26.9,38.0,600,389,250,266,84,289,582,49.7,293,393,112,281,301,901,753,18,
+Opponent Total,,,27.8,38.0,599,367,268,247,84,314,620,50.6,306,450,123,327,346,945,847,10,

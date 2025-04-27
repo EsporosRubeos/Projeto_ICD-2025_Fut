@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes
+2019-02-14,21:30,Sudamericana,First stage,Thu,Home,D,1,1,ar Racing Club,,,47,,Ralf,4-1-4-1,4-1-3-2,Víctor Carrillo,Match Report,Leg 1 of 2
+2019-02-27,21:30,Sudamericana,First stage,Wed,Away,D,1 (5),1 (4),ar Racing Club,,,32,,Fagner,4-1-3-2,4-1-3-2,Wilmar Roldán,Match Report,Leg 2 of 2; Corinthians won; Corinthians won on penalty kicks following extra time
+2019-04-28,16:00,Série A,Matchweek 1,Sun,Away,L,2,3,Bahia,0.4,1.4,56,29294.0,Fagner,4-1-4-1,4-2-3-1,Wilton Sampaio,Match Report,
+2019-05-01,16:00,Série A,Matchweek 2,Wed,Home,W,1,0,Chapecoense,0.8,0.4,51,30442.0,Ramiro Benetti,4-1-4-1,4-4-1-1,Ricardo Marques Ribeiro,Match Report,
+2019-05-04,19:00,Série A,Matchweek 3,Sat,Away,D,1,1,Vasco da Gama,1.2,1.9,53,25779.0,Cássio,4-1-4-1,4-2-3-1,Rodrigo D'Alonso Ferreira,Match Report,
+2019-05-11,19:00,Série A,Matchweek 4,Sat,Home,D,0,0,Grêmio,0.9,0.3,48,36360.0,Ralf,4-1-4-1,4-2-3-1,Marcelo de Lima Henrique,Match Report,
+2019-05-19,16:00,Série A,Matchweek 5,Sun,Away,W,2,0,Ath Paranaense,1.1,1.3,38,18284.0,Danilo Avelar,4-2-3-1,4-4-2,Wagner do Nascimento Magalhaes,Match Report,
+2019-05-23,19:15,Sudamericana,Second stage,Thu,Home,W,2,0,ve Deportivo Lara,,,63,,Cássio,4-1-4-1,4-1-4-1,Cristián Garay,Match Report,Leg 1 of 2
+2019-05-26,19:00,Série A,Matchweek 6,Sun,Home,W,1,0,São Paulo,1.2,0.4,41,39378.0,Fagner,4-1-4-1,4-2-3-1,Flavio Rodrigues De Souza,Match Report,
+2019-05-30,16:00,Sudamericana,Second stage,Thu,Away,W,2,0,ve Deportivo Lara,,,49,,Ralf,4-1-4-1,4-5-1,Wilmar Roldán,Match Report,Leg 2 of 2; Corinthians won
+2019-06-08,19:00,Série A,Matchweek 8,Sat,Away,D,0,0,Cruzeiro,0.4,1.2,54,21370.0,Danilo Avelar,4-1-4-1,4-2-3-1,Marcelo de Lima Henrique,Match Report,
+2019-06-12,21:30,Série A,Matchweek 9,Wed,Away,L,0,1,Santos,0.1,1.4,48,11831.0,Ralf,4-1-4-1,4-3-3,Wagner do Nascimento Magalhaes,Match Report,
+2019-07-14,16:00,Série A,Matchweek 10,Sun,Home,W,1,0,CSA,2.2,0.1,66,33952.0,Fagner,4-1-4-1,4-2-2-2,Wagner Reway,Match Report,
+2019-07-21,16:00,Série A,Matchweek 11,Sun,Home,D,1,1,Flamengo,1.3,0.9,46,34737.0,Cássio,4-1-4-1,4-1-4-1,Leandro Pedro Vuaden,Match Report,
+2019-07-25,21:30,Sudamericana,Round of 16,Thu,Home,W,2,0,uy Wanderers,,,59,,Vágner Love,4-1-4-1,4-2-3-1,José Argote,Match Report,Leg 1 of 2
+2019-07-28,19:00,Série A,Matchweek 12,Sun,Away,W,3,1,Fortaleza,2.1,1.3,52,41546.0,Danilo Avelar,4-1-4-1,4-4-2,Wilton Sampaio,Match Report,
+2019-08-01,21:30,Sudamericana,Round of 16,Thu,Away,W,2,1,uy Wanderers,,,54,,Gil,4-1-4-1,4-2-3-1,Eber Aguino,Match Report,Leg 2 of 2; Corinthians won
+2019-08-04,19:00,Série A,Matchweek 13,Sun,Home,D,1,1,Palmeiras,0.5,1.0,50,42675.0,Cássio,4-1-4-1,4-2-3-1,Anderson Daronco,Match Report,
+2019-08-07,19:15,Série A,Matchweek 7,Wed,Home,W,2,0,Goiás,2.0,0.4,64,34595.0,Fagner,4-1-4-1,4-3-3,Bruno Arleu de Araujo,Match Report,
+2019-08-11,11:00,Série A,Matchweek 14,Sun,Away,D,0,0,Internacional,0.8,0.4,44,32049.0,Danilo Avelar,4-1-4-1,4-3-3,Caio Max Augusto Vieira,Match Report,
+2019-08-17,17:00,Série A,Matchweek 15,Sat,Home,W,2,0,Botafogo (RJ),1.4,0.4,43,38882.0,Gil,4-1-4-1,4-3-3,Rafael Traci,Match Report,
+2019-08-22,21:30,Sudamericana,Quarter-finals,Thu,Home,D,0,0,br Fluminense,,,56,,Fagner,4-1-4-1,4-1-4-1,Andrés Rojas,Match Report,Leg 1 of 2
+2019-08-25,19:00,Série A,Matchweek 16,Sun,Away,D,1,1,Avaí,1.2,0.5,52,9753.0,Cássio,4-1-4-1,4-3-3,Ricardo Marques Ribeiro,Match Report,
+2019-08-29,21:30,Sudamericana,Quarter-finals,Thu,Away,D,1,1,br Fluminense,,,49,,Gil,4-1-4-1,4-1-4-1,Diego Haro,Match Report,Leg 2 of 2; Corinthians won
+2019-09-01,19:00,Série A,Matchweek 17,Sun,Home,W,1,0,Atlético Mineiro,1.3,0.8,46,31961.0,Cássio,4-1-4-1,4-1-4-1,Wilton Sampaio,Match Report,
+2019-09-07,11:00,Série A,Matchweek 18,Sat,Home,D,2,2,Ceará,1.0,1.3,60,43230.0,Danilo Avelar,4-1-4-1,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,
+2019-09-15,16:00,Série A,Matchweek 19,Sun,Away,L,0,1,Fluminense,0.8,0.6,51,15733.0,Cássio,4-1-4-1,4-2-3-1,Jean Pierre Goncalves Lima,Match Report,
+2019-09-18,21:30,Sudamericana,Semi-finals,Wed,Home,L,0,2,ec Independiente,,,58,,Fagner,4-1-4-1,4-1-4-1,Leodán González,Match Report,Leg 1 of 2
+2019-09-21,19:00,Série A,Matchweek 20,Sat,Home,W,2,1,Bahia,2.7,1.1,50,29569.0,Vágner Love,4-1-4-1,4-1-4-1,Dewson Fernando Freitas da Silva,Match Report,
+2019-09-25,19:30,Sudamericana,Semi-finals,Wed,Away,D,2,2,ec Independiente,,,39,,Cássio,4-1-4-1,4-1-4-1,Piero Maza,Match Report,Leg 2 of 2; Independiente won
+2019-09-29,11:00,Série A,Matchweek 22,Sun,Home,W,1,0,Vasco da Gama,0.9,1.1,54,37091.0,Gil,4-1-4-1,4-3-3,Ricardo Marques Ribeiro,Match Report,
+2019-10-02,19:15,Série A,Matchweek 21,Wed,Away,W,1,0,Chapecoense,0.5,1.1,46,5036.0,Danilo Avelar,4-1-4-1,4-1-4-1,Daniel Nobre Bins,Match Report,
+2019-10-05,19:00,Série A,Matchweek 23,Sat,Away,D,0,0,Grêmio,0.6,0.9,36,14596.0,Fagner,4-4-1-1,4-2-3-1,Bruno Arleu de Araujo,Match Report,
+2019-10-10,19:15,Série A,Matchweek 24,Thu,Home,D,2,2,Ath Paranaense,1.6,3.1,42,22964.0,Vágner Love,4-2-3-1,4-3-3,André Luiz de Freitas Castro,Match Report,
+2019-10-13,18:00,Série A,Matchweek 25,Sun,Away,L,0,1,São Paulo,0.1,1.7,45,37561.0,Cássio,4-1-4-1,4-1-4-1,Raphael Claus,Match Report,
+2019-10-16,21:30,Série A,Matchweek 26,Wed,Away,D,2,2,Goiás,2.0,1.4,55,17577.0,Fagner,4-1-4-1,4-2-3-1,Wagner do Nascimento Magalhaes,Match Report,
+2019-10-19,19:00,Série A,Matchweek 27,Sat,Home,L,1,2,Cruzeiro,0.8,2.5,54,31631.0,Ralf,4-1-4-1,4-2-3-1,Bruno Arleu de Araujo,Match Report,
+2019-10-26,18:00,Série A,Matchweek 28,Sat,Home,D,0,0,Santos,0.8,0.9,38,32142.0,Gil,4-1-4-1,4-3-3,Luiz Flávio de Oliveira,Match Report,
+2019-10-30,21:30,Série A,Matchweek 29,Wed,Away,L,1,2,CSA,0.6,0.7,56,15428.0,Cássio,4-1-4-1,4-2-3-1,Rafael Traci,Match Report,
+2019-11-03,17:00,Série A,Matchweek 30,Sun,Away,L,1,4,Flamengo,0.8,2.1,32,64985.0,Fagner,4-4-2,4-2-2-2,Jean Pierre Goncalves Lima,Match Report,
+2019-11-06,20:30,Série A,Matchweek 31,Wed,Home,W,3,2,Fortaleza,1.6,2.4,59,22453.0,Gil,4-2-3-1,4-2-3-1,Caio Max Augusto Vieira,Match Report,
+2019-11-09,20:00,Série A,Matchweek 32,Sat,Away,D,1,1,Palmeiras,0.4,2.6,52,36290.0,Gil,4-4-1-1,4-2-3-1,Vinicius Gonçalves Dias Araujo,Match Report,
+2019-11-17,18:00,Série A,Matchweek 33,Sun,Home,D,0,0,Internacional,0.9,0.7,50,29159.0,Cássio,4-4-1-1,4-2-3-1,Marcelo de Lima Henrique,Match Report,
+2019-11-24,18:00,Série A,Matchweek 34,Sun,Away,L,0,1,Botafogo (RJ),1.3,0.7,71,22558.0,Gil,4-1-2-1-2◆,4-2-3-1,André Luiz de Freitas Castro,Match Report,
+2019-11-27,21:30,Série A,Matchweek 35,Wed,Home,W,3,0,Avaí,2.9,0.7,63,17441.0,Cássio,4-1-4-1,4-3-3,Wagner do Nascimento Magalhaes,Match Report,
+2019-12-01,18:00,Série A,Matchweek 36,Sun,Away,L,1,2,Atlético Mineiro,0.8,2.2,59,18062.0,Cássio,4-1-4-1,4-2-3-1,Paulo Roberto Alves Júnior,Match Report,
+2019-12-04,19:30,Série A,Matchweek 37,Wed,Away,W,1,0,Ceará,1.4,0.6,63,49200.0,Gil,4-1-4-1,4-2-3-1,Rafael Traci,Match Report,
+2019-12-08,16:00,Série A,Matchweek 38,Sun,Home,L,1,2,Fluminense,1.0,0.5,60,36316.0,Cássio,4-4-2,4-2-3-1,Rodrigo D'Alonso Ferreira,Match Report,

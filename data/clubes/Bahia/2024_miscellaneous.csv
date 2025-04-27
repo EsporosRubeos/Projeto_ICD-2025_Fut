@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 21_level_0
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Gabriel,br BRA,DF,22.0,35.0,8,0,0,41,13,0,3,57,44,0,0,0,107,136,48,73.9,Matches
+Luciano Juba,br BRA,DF,24.0,34.6,2,0,0,7,13,2,117,52,32,0,0,0,174,29,30,49.2,Matches
+Jean Lucas,br BRA,MF,25.0,32.2,7,0,0,47,46,3,21,23,30,0,0,0,160,20,28,41.7,Matches
+Caio Alexandre,br BRA,MF,24.0,30.8,6,0,0,56,49,3,29,9,29,0,1,0,143,7,12,36.8,Matches
+Marcos Felipe,br BRA,GK,27.0,33.3,2,0,0,1,6,0,0,0,1,0,0,0,45,7,1,87.5,Matches
+Everton Ribeiro,br BRA,MF,34.0,29.8,4,0,0,37,71,1,57,38,33,0,0,0,132,14,16,46.7,Matches
+Cauly Oliveira Souza,br BRA,"MF,FW",28.0,29.7,1,0,0,21,28,4,91,7,6,0,0,0,77,7,15,31.8,Matches
+Thaciano,br BRA,"FW,MF",28.0,26.0,6,0,0,26,20,24,11,18,13,0,0,0,81,38,52,42.2,Matches
+Kanu,br BRA,DF,26.0,30.0,12,0,0,34,29,1,0,33,18,0,1,0,103,48,37,56.5,Matches
+Everaldo Stum,br BRA,FW,32.0,22.8,6,0,0,31,29,6,34,4,15,0,0,0,55,55,32,63.2,Matches
+Santiago Arias,co COL,DF,32.0,20.9,2,1,0,25,25,4,67,20,32,0,1,0,94,17,20,45.9,Matches
+Gilberto,br BRA,DF,30.0,15.2,2,0,0,11,17,2,54,10,26,0,0,0,67,19,11,63.3,Matches
+Ademir Santos,br BRA,"FW,MF",28.0,12.6,0,0,0,16,27,7,54,8,21,0,0,0,58,7,26,21.2,Matches
+Luciano Rodríguez,uy URU,"FW,MF",20.0,10.0,2,0,0,5,30,3,13,3,6,1,0,0,28,7,26,21.2,Matches
+Víctor Cuesta,ar ARG,DF,35.0,5.6,3,0,0,7,5,1,1,5,9,0,0,0,19,7,6,53.8,Matches
+Biel,br BRA,"FW,MF",22.0,10.0,2,0,0,9,22,3,21,10,7,0,0,0,28,1,7,12.5,Matches
+Carlos de Pena,uy URU,MF,31.0,7.6,5,0,0,10,7,0,61,15,9,0,0,0,48,9,4,69.2,Matches
+Rezende,br BRA,"MF,DF",29.0,6.4,3,0,0,12,14,0,0,8,16,0,0,0,27,10,10,50.0,Matches
+Iago,br BRA,"DF,MF",26.0,4.5,0,0,0,5,8,0,10,7,8,0,0,0,22,4,0,100.0,Matches
+Adriel,br BRA,GK,23.0,3.7,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,Matches
+David Duarte,br BRA,DF,29.0,2.8,0,0,0,1,2,0,0,1,0,0,0,0,9,9,2,81.8,Matches
+Nicolás Acevedo,uy URU,"MF,DF",24.0,3.0,2,0,0,8,5,0,3,3,4,0,0,0,20,5,5,50.0,Matches
+Oscar Estupiñan,co COL,"FW,MF",27.0,2.8,1,0,0,5,1,1,0,1,1,0,0,0,2,9,11,45.0,Matches
+Danilo Fernandes,br BRA,GK,35.0,1.0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,,Matches
+Cicinho,bg BUL,"DF,FW",35.0,0.9,1,0,0,3,2,0,2,0,1,0,0,0,3,2,3,40.0,Matches
+Rafael Ratão,br BRA,"FW,MF",28.0,4.9,0,0,0,9,5,1,7,1,9,0,0,0,15,4,10,28.6,Matches
+Yago,br BRA,MF,28.0,0.8,3,0,0,7,1,0,0,0,3,0,0,0,8,1,0,100.0,Matches
+Tiago,br BRA,"FW,MF",18.0,0.7,0,0,0,2,1,0,4,0,2,0,0,0,2,1,1,50.0,Matches
+Vitor Hugo,br BRA,DF,32.0,0.2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,Matches
+Ruan Pablo,br BRA,MF,15.0,0.1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,27.7,38.0,83,1,0,436,478,67,660,334,375,1,3,0,1535,473,414,53.3,
+Opponent Total,,,27.6,38.0,113,6,3,500,418,117,654,363,387,3,2,0,1613,414,473,46.7,

@@ -1,0 +1,37 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes,Unnamed: 20_level_0
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Cássio,br BRA,GK,33.0,37.0,1025,586,439,128,0,1,0,0,0,0,0,0,803,0,0,Matches
+Gil,br BRA,DF,33.0,37.0,1945,1881,64,64,0,15,0,0,0,0,0,0,1766,0,6,Matches
+João Victor,br BRA,DF,22.0,36.0,2198,2130,68,61,0,12,1,7,0,0,0,0,1922,0,11,Matches
+Fagner,br BRA,DF,31.0,33.8,2490,2035,453,100,1,15,131,325,28,0,28,0,2018,2,38,Matches
+Fábio Santos,br BRA,DF,35.0,32.0,2375,2035,335,62,0,5,49,273,0,0,0,0,2045,5,32,Matches
+Gabriel,br BRA,MF,28.0,26.8,1603,1548,53,41,2,10,9,3,0,0,0,0,1391,2,18,Matches
+Jô,br BRA,FW,33.0,23.9,688,670,16,2,1,2,3,0,0,0,0,0,539,2,12,Matches
+Gustavo Mosquito,br BRA,"FW,MF",23.0,23.0,687,666,21,1,1,2,101,1,17,3,14,0,499,0,35,Matches
+Giuliano de Paula,br BRA,MF,30.0,19.7,1138,1065,71,40,4,3,14,2,10,8,0,0,1037,2,5,Matches
+Roger Guedes,br BRA,"FW,MF",24.0,18.7,767,707,60,13,2,10,46,8,30,24,1,0,609,0,28,Matches
+Víctor Cantillo,co COL,MF,27.0,16.0,1073,1029,42,41,2,19,0,1,0,0,0,0,960,2,10,Matches
+Gabriel Pereira,br BRA,"FW,MF",19.0,14.7,580,546,33,4,1,3,63,2,27,11,11,0,455,1,15,Matches
+Renato Augusto,br BRA,"MF,FW",32.0,16.5,1037,1010,26,16,1,11,16,1,3,2,1,0,891,1,18,Matches
+Budiga Roni,br BRA,MF,21.0,12.2,504,498,5,3,1,3,16,2,0,0,0,0,412,1,21,Matches
+Du Queiroz,br BRA,"MF,DF",21.0,11.0,661,608,53,1,1,1,14,52,0,0,0,0,554,0,23,Matches
+Mateus Vital,br BRA,"FW,MF",22.0,9.9,374,344,30,4,1,7,44,3,23,15,8,0,302,0,7,Matches
+Vitinho,br BRA,"MF,FW",21.0,8.9,325,294,28,10,1,2,31,0,14,2,12,0,231,3,13,Matches
+Luan Vieira,br BRA,"FW,MF",27.0,6.4,378,336,41,9,1,2,29,3,22,8,13,0,279,1,13,Matches
+Adson,br BRA,"FW,MF",20.0,6.2,319,302,14,1,1,0,25,0,13,3,9,0,264,3,8,Matches
+Lucas Piton,br BRA,DF,20.0,5.9,509,450,58,11,0,3,18,47,0,0,0,0,439,1,5,Matches
+Willian,br BRA,"FW,MF",32.0,5.0,285,256,24,5,1,1,26,5,14,4,10,0,228,5,7,Matches
+Raul Bicalho,br BRA,DF,21.0,3.0,139,136,3,3,0,1,0,0,0,0,0,0,117,0,1,Matches
+Ángelo Araos,cl CHI,"MF,FW",24.0,3.7,166,164,2,1,1,0,2,0,1,1,0,0,136,0,6,Matches
+Xavier,br BRA,MF,20.0,3.2,185,179,6,6,0,3,0,0,0,0,0,0,152,0,2,Matches
+Ramiro Benetti,br BRA,"MF,FW",27.0,2.6,141,130,11,2,0,0,7,3,5,0,5,0,107,0,4,Matches
+Matheus Donelli,br BRA,GK,18.0,1.0,10,9,1,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Guilherme Camacho,br BRA,MF,30.0,0.9,38,38,0,0,0,0,0,0,0,0,0,0,29,0,5,Matches
+Marquinhos,br BRA,"FW,MF",24.0,2.1,86,85,1,0,1,0,4,1,0,0,0,0,64,0,5,Matches
+Gustavo Mantuan,br BRA,"FW,MF",19.0,0.4,8,7,1,0,0,0,0,0,0,0,0,0,8,0,0,Matches
+Léo Natel,br BRA,"FW,MF",23.0,0.2,13,13,0,0,0,0,0,0,0,0,0,0,8,0,2,Matches
+Felipe Augusto,br BRA,FW,16.0,0.2,3,2,1,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Cauê,br BRA,FW,18.0,0.1,6,6,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+João Pedro,br BRA,DF,24.0,0.1,7,5,2,0,0,0,0,2,0,0,0,0,7,0,0,Matches
+Squad Total,,,28.3,38.0,21763,19770,1962,629,24,131,649,741,207,81,112,0,18288,31,351,
+Opponent Total,,,26.8,38.0,18044,16373,1608,420,34,115,698,680,187,75,76,3,14584,63,324,
