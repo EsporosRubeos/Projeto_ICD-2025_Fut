@@ -3,5 +3,8 @@ __pycache__
 env
 data/clubes/*
 data/league/*
+data/processed/*
 !data/clubes/.gitkeep
 !data/league/.gitkeep
+!data/processed/.gitkeep
+test.ipynb
