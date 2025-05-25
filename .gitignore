@@ -1,1 +1,4 @@
 test.ipynb
+data/comparison_plots/*
+data/processed/*
+data/processed/gringos_df.csv
